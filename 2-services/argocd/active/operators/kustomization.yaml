@@ -3,4 +3,4 @@ bases:
   - https://github.com/cloud-native-toolkit/multi-tenancy-gitops
 
 resources:
-  - 2-services/operators/ibm-cp4i-operators
+  - https://github.com/cloud-native-toolkit/multi-tenancy-gitops/2-services/operators/ibm-cp4i-operators
